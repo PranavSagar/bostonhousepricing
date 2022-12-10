@@ -4,8 +4,7 @@
 
 1. [Github Account](https://github.com/)
 2. [Visual Code Studio IDE](https://code.visualstudio.com/)
-3. [Heroku Account](https://www.heroku.com/)
-4. [GitCLI](https://git-scm.com/docs/gitcli)
+3. [GitCLI](https://git-scm.com/docs/gitcli)
 
 
 Create a new Environment
@@ -16,6 +15,11 @@ use
 conda create -p venv python==3.7 -y
 ```
 
+Install all the requirement
+
+```
+pip install -r requirements.txt  
+````
 
 ```
 git config --global user.name "Pra
@@ -39,3 +43,4 @@ by using
   ```
   git status
   ```
+Create a Template (html file)
