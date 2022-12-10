@@ -24,3 +24,18 @@ navSagar"
 git config --global user.email "pranav.sagar@outlook.com"
 ```
 
+commit and push the changes 
+by using
+ ```
+ git add .
+
+ git commit -m "Requirement of the project"     
+
+ git push origin main 
+
+ ```
+  We can check the status of git repo by using
+
+  ```
+  git status
+  ```
